@@ -1,0 +1,9 @@
+[Gedit Plugin]
+Loader=python
+Module=AnsComHelp
+IAge=2
+Name=Ansys Command Help
+Description=Ansys command help at the press of F2. It also shows instant help when you are coding. When you press ',' it will highlight the right field in the command help. While entering any command, press F3 to see help for a particular command field.
+Authors=Najeem Muhammed <najeem.muhammed@gknaerospace.com>
+Copyright=Copyright © 2014 Najeem Muhammed <najeem.muhammed@gknaerospace.com>
+Website=http://www.gedit.org
