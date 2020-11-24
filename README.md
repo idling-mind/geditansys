@@ -1,0 +1,2 @@
+# geditansys
+Gedit ANSYS plugin
